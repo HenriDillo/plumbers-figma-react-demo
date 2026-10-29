@@ -4,6 +4,8 @@ A responsive plumbing-service landing page implemented by Henri James Dillo in R
 
 Live demo: https://plumbers-henridillo.vercel.app
 
+Public source: https://github.com/HenriDillo/plumbers-figma-react-demo
+
 ## Run
 
 Use Node24 LTS, then `npm ci` and `npm run dev`. Local preview: http://127.0.0.1:4328/ . `npm run build` runs TypeScript and a production Vite build; `npm run preview` serves that build.
