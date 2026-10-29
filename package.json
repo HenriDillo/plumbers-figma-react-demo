@@ -1,0 +1,29 @@
+{
+  "name": "plumbers-figma-react-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 4328",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 4328"
+  },
+  "dependencies": {
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "lucide-react": "0.468.0",
+    "@fontsource/roboto": "^5.2.0",
+    "@fontsource/roboto-condensed": "^5.2.0"
+  },
+  "devDependencies": {
+    "vite": "8.3.5",
+    "@vitejs/plugin-react": "6.1.2",
+    "typescript": "6.0.3",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@types/node": "^24.0.0"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}

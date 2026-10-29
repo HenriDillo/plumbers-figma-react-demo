@@ -1,0 +1,6 @@
+.env*
+docs/
+README.md
+AGENTS.md
+*.tsbuildinfo
+.playwright-cli/
